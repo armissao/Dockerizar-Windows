@@ -1,7 +1,7 @@
 # Dockerizar Windows
 Simples configurações para Windows WSL + Docker:
 
-1) Se tiver o Docker instalado, \textcolor{Desinstale!}{red}
+1) Se tiver o Docker instalado, Desinstale! \textcolor{red}
 
 2) Habilite o WSL no Windows 10
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
